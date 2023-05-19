@@ -48,7 +48,7 @@
   }
   
   .hero {
-    background-image: url('hero-image.jpg');
+    background-image: url('img/img\ face\ 04.png');
     height: 400px;
     background-size: cover;
     background-position: center;
@@ -82,7 +82,7 @@
   
   .product-list img {
     width: 100%;
-    height: auto;
+    height: Auto;
     margin-bottom: 10px;
   }
   
