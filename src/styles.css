@@ -5,10 +5,10 @@
   }
   
   body {
-    font-family: Arial, sans-serif;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     line-height: 1.6;
-    background-color: #f2f2f2;
+    background-color:burlywood  ;
   }
   
   .container {
@@ -18,10 +18,11 @@
   }
   
   header {
-    background-color: #333;
-    color: #fff;
+    background-color:cadetblue;
+    color:burlywood ;
     padding: 20px;
     text-align: center;
+     <p class="-ms-layout-grid-mode: ;">image-rendering: </p>;
   }
   
   nav ul {
@@ -36,14 +37,14 @@
   }
   
   nav a {
-    color: #333;
+    color:black;
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
   }
   
   nav a:hover {
-    background-color: #333;
+    background-color:blueviolet ;
     color: #fff;
   }
   
@@ -74,10 +75,10 @@
   }
   
   .product-list li {
-    background-color: #f2f2f2;
+    background-color:#f2f2f2(73, 172, 172);
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 2px 5px rgba(158, 16, 127, 0.3);
   }
   
   .product-list img {
@@ -105,7 +106,7 @@
   }
   
   button:hover {
-    background-color: #666;
+    background-color:blueviolet;
   }
   
   section {
@@ -136,7 +137,7 @@
   }
   
   button[type="submit"] {
-    background-color: #333;
+    background-color:#333;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -145,11 +146,11 @@
   }
   
   button[type="submit"]:hover {
-    background-color: #666;
+    background-color:blueviolet;
   }
   
   footer {
-    background-color: #f2f2f2;
+    background-color:cadetblue;
     padding: 20px;
     text-align: center;
   }
